@@ -1,0 +1,3 @@
+# tapTrap
+//Usage
+$('.modal').tabTrap();
